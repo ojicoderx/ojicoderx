@@ -9,7 +9,6 @@ Saya adalah seorang **Pengembang** dari **Indonesia** yang menyukai teknologi da
 [Profil Spotify Saya](https://open.spotify.com/user/your-spotify-username)
 
 ## 📫 Cara Menghubungi Saya
-- **Email**: ojitech@example.com
-- **LinkedIn**: [Profil LinkedIn Saya](https://www.linkedin.com/in/your-profile)
+- **Email**: ojitech@gmail.com
 
 Terima kasih telah mengunjungi profil saya! 🌟
