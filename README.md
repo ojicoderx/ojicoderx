@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/ojitechx">
+  <a href="https://github.com/ojicoderx">
     <img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+is+Kyouka+Hashiba;I+Am+15+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Typing SVG">
   </a>
 </p>
