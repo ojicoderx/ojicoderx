@@ -1,22 +1,6 @@
 
 <h1 align="center">I'm OJI <img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1>
 
-<p align="center">
-  <a href="https://github.com/Yuri-Neko">
-    <img src="https://cardivo.vercel.app/api?name=Kyouka%20Hashiba&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20biasa%20masih%20belajar.%20Hobiku%20Adalah%20Nonton%20Anime%20:3&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=admin_kyouka&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" />
-  </a>
-  <a href="https://github.com/Yuri-Neko">
-    <img src="https://cardivo.vercel.app/api?name=Aku%20Sangat%20suka%20Menonton%20Anime:)&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" />
-  </a>
-</p>
-
-
-------
-
-### ```Donate``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
-<a href="https://saweria.co/YuriNeko"> ```Saweria```
-<a href="https://trakteer.id/Yuri-Neko"/> ```Trakteer```
-
 ## ```FOLLOW ALL SOCIAL MEDIA ME```
 <p align="center">
   <a href="https://instagram.com/admin_kyouka">
