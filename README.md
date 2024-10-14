@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube Neko-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/NekoYuri" />
   </a>
   <a href="https://github.com/ojicoderx">
-    <img src="https://img.shields.io/badge/Github Neko-8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/ojicoderx" />
+    <img src="https://img.shields.io/badge/Github -8A2BE2?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/ojicoderx" />
   </a>
 </p>
 
