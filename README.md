@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 <p align="center">
-  <a href="https://github.com/Yuri-Neko">
+  <a href="https://github.com/ojitechx">
     <img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+is+Kyouka+Hashiba;I+Am+15+Years+Old;I+live+In+Indonesia;Don't+bully+me+≧▽≦" alt="Typing SVG">
   </a>
 </p>
