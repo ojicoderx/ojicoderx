@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ojicoderx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuri-Neko&show_icons=true&locale=en&layout=compact" alt="ojicoderx" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojicoderx&show_icons=true&locale=en&layout=compact" alt="ojicoderx" />
   </a>
 </p>
 
