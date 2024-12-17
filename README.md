@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3NasI2H0BTR7kWi1zHROD7?si=TvjAy6HYQPmlyiaNFLBIDw">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31etnccie4jk2etanwluope5mw4u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qzfcu3nep73aelu2p6ve3mmc4m&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
